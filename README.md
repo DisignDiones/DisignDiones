@@ -1,4 +1,4 @@
-# 👋 Hola, soy Diones
+#  Hola, soy Diones
 
 ### 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
@@ -15,15 +15,15 @@ resolver problemas reales.
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-- 🎓 Estudiante de **FP Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
-- 💻 Actualmente aprendiendo **Java y fundamentos de programación**
-- 🌱 En constante aprendizaje y desarrollo de nuevas habilidades
-- 🧠 Interesado en tecnología, programación y resolución de problemas
-- 🏥 Especial interés en proyectos relacionados con **tecnología y salud (HealthTech)**
-- 🤝 Me gusta trabajar en equipo y aprender de otras personas
-- 🌍 Vivo en España y estoy construyendo mi carrera profesional en el sector tecnológico
+-  Estudiante de **FP Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
+-  Actualmente aprendiendo **Java y fundamentos de programación**
+-  En constante aprendizaje y desarrollo de nuevas habilidades
+-  Interesado en tecnología, programación y resolución de problemas
+-  Especial interés en proyectos relacionados con **tecnología y salud (HealthTech)**
+-  Me gusta trabajar en equipo y aprender de otras personas
+-  Vivo en España y estoy construyendo mi carrera profesional en el sector tecnológico
 
 Mi objetivo es desarrollar una sólida base técnica y, a través de proyectos 
 prácticos, convertirme progresivamente en un profesional del desarrollo de software.
