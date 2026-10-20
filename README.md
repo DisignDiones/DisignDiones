@@ -1,68 +1,104 @@
-#  Hola, soy Diones
+<div align="center">
 
-### 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+# Diones Gomes
 
-Soy estudiante de **FP Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, 
-con muchas ganas de aprender, desarrollar proyectos y construir mi carrera profesional 
-en el mundo de la tecnología.
+### Desarrollo de Aplicaciones Multiplataforma · HealthTech
 
-Actualmente estoy iniciando mi formación en programación y desarrollo de software, 
-trabajando especialmente con **Python**, y aprendiendo paso a paso conceptos de 
-programación, bases de datos, desarrollo de aplicaciones.
+**Tecnología con propósito. Soluciones que conectan con las personas.**
 
-Me interesa especialmente crear soluciones que sean útiles, intuitivas y capaces de 
-resolver problemas reales.
+![Python](https://img.shields.io/badge/Python-168F79?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-174E43?style=for-the-badge&logo=openjdk&logoColor=white)
+![HealthTech](https://img.shields.io/badge/HealthTech-B7E4D5?style=for-the-badge&logo=heart&logoColor=174E43)
 
----
-
-##  Sobre mí
-
--  Estudiante de **FP Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
--  Actualmente aprendiendo **Java y fundamentos de programación**
--  En constante aprendizaje y desarrollo de nuevas habilidades
--  Interesado en tecnología, programación y resolución de problemas
--  Especial interés en proyectos relacionados con **tecnología y salud (HealthTech)**
--  Me gusta trabajar en equipo y aprender de otras personas
--  Vivo en España y estoy construyendo mi carrera profesional en el sector tecnológico
-
-Mi objetivo es desarrollar una sólida base técnica y, a través de proyectos 
-prácticos, convertirme progresivamente en un profesional del desarrollo de software.
+</div>
 
 ---
 
-## 🛠️ Áreas que me interesan
+## 👨‍💻 Sobre mí
 
-### 💻 Desarrollo de software
-- Programación con Java
-- Desarrollo de aplicaciones
-- Programación orientada a objetos
-- Estructuras de datos y lógica de programación
+¡Hola! Soy **Diones Gomes**, estudiante de Formación Profesional Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en CEAC Valencia, España.
+
+Estoy construyendo mi camino en el desarrollo de software a través de proyectos prácticos, curiosidad y aprendizaje continuo.
+
+Me interesa crear aplicaciones útiles, intuitivas y accesibles, especialmente aquellas que conectan la tecnología con la salud y el bienestar.
+
+- 🎓 Estudiante de DAM en CEAC Valencia.
+- 💻 Aprendiendo programación y desarrollo de aplicaciones.
+- 🗄️ Practicando SQL, bases de datos y operaciones CRUD.
+- 🌐 Desarrollando proyectos con HTML, CSS y JavaScript.
+- 🩺 Interesado en HealthTech y soluciones digitales para la salud.
+- 🚀 Construyendo mi portfolio profesional paso a paso.
+
+## 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-168F79?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-174E43?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-168F79?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-174E43?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B7E4D5?style=flat-square&logo=javascript&logoColor=174E43)
+![SQL](https://img.shields.io/badge/SQL-168F79?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-174E43?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-168F79?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-174E43?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-168F79?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+*Tecnologías en aprendizaje y práctica; sigo ampliando mis conocimientos con cada proyecto.*
+
+## 🚀 Proyectos destacados
+
+### 🩺 NEXO — Centro Oncológico
+
+Proyecto académico de desarrollo web centrado en una interfaz clara y organizada para la gestión asistencial.
+
+**Objetivo:** practicar diseño de interfaces y organización de información mediante secciones como pacientes, consultas e informes.
+
+**Tecnologías:** HTML, CSS y las herramientas de desarrollo utilizadas en el proyecto.
 
 ### 🌐 Desarrollo web
-- HTML
-- CSS
-- JavaScript
-- Desarrollo Frontend y Backend
 
-### 🗄️ Bases de datos
-- SQL
-- Diseño y gestión de bases de datos
-- Modelado de datos
+Páginas y prototipos creados durante mi formación en DAM.
 
-### 🏥 Tecnología y salud
-Me interesa especialmente la intersección entre **tecnología y salud**, 
-con la idea de desarrollar en el futuro aplicaciones que puedan facilitar procesos, 
-gestionar información y mejorar la experiencia de pacientes y profesionales.
+- Estructura semántica con HTML.
+- Diseño visual con CSS.
+- Práctica de Python.
+- Interfaces claras y adaptables.
 
----
+### 🗄️ Programación y bases de datos
+
+Ejercicios para consolidar los fundamentos del desarrollo de software.
+
+- Variables y estructuras de control.
+- Lógica de programación.
+- SQL y operaciones CRUD.
+- Creación y gestión de bases de datos.
 
 ## 📚 Actualmente estoy aprendiendo
 
-```text
-Python
-Programación Orientada
-Algoritmos y lógica de programación
-Git & GitHub
-Bases de datos
-SQL
-Desarrollo de aplicaciones
+- Fundamentos de programación.
+- Python y Java.
+- Desarrollo web.
+- Bases de datos relacionales.
+- Git y GitHub.
+- Desarrollo de aplicaciones multiplataforma.
+
+## 🎯 Mi objetivo
+
+Desarrollar una base técnica sólida, crear proyectos cada vez más completos y prepararme para oportunidades profesionales en el sector tecnológico.
+
+> 💡 Cada proyecto es una oportunidad para aprender algo nuevo.
+
+## 📫 Contacto
+
+- GitHub: [@DisignDiones](https://github.com/DisignDiones)
+
+<div align="center">
+
+**DESARROLLANDO EL FUTURO, PASO A PASO.** 💚
+
+<sub>Hecho con dedicación, curiosidad y ganas de aprender.</sub>
+
+</div>
