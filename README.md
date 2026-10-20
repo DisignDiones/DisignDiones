@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./realtech-banner(1).png" alt="REALTECH — Technology, Development, Innovation" width="100%">
+</p>
+<br>
+
 <div align="center">
 
 # Diones Gomes
