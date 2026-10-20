@@ -1,86 +1,104 @@
-<h1 align="center">Diones Gomes</h1>
+<div align="center">
 
-<h3 align="center">
-  Desarrollador de Software en formación | DAM
-</h3>
+# Diones Gomes
 
-<p align="center">
-  Tecnología · Desarrollo · Innovación
-</p>
+### Desarrollo de Aplicaciones Multiplataforma · HealthTech
 
-<p align="center">
-  Construyendo soluciones digitales mediante la programación,
-  el aprendizaje continuo y la creatividad.
-</p>
+**Tecnología con propósito. Soluciones que conectan con las personas.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+![Python](https://img.shields.io/badge/Python-168F79?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-174E43?style=for-the-badge&logo=openjdk&logoColor=white)
+![HealthTech](https://img.shields.io/badge/HealthTech-B7E4D5?style=for-the-badge&logo=heart&logoColor=174E43)
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy Diones Gomes, estudiante de Formación Profesional Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en CEAC Valencia, España.
+¡Hola! Soy **Diones Gomes**, estudiante de Formación Profesional Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en CEAC Valencia, España.
 
-Actualmente estoy construyendo mi camino en el desarrollo de software mediante proyectos prácticos, programación y aprendizaje continuo.
+Estoy construyendo mi camino en el desarrollo de software a través de proyectos prácticos, curiosidad y aprendizaje continuo.
 
-Me interesa desarrollar aplicaciones útiles, intuitivas y eficientes que ayuden a resolver problemas reales.
+Me interesa crear aplicaciones útiles, intuitivas y accesibles, especialmente aquellas que conectan la tecnología con la salud y el bienestar.
 
 - 🎓 Estudiante de DAM en CEAC Valencia.
 - 💻 Aprendiendo programación y desarrollo de aplicaciones.
-- 🐍 Explorando Python y sus posibilidades.
-- ☕ Desarrollando mis conocimientos de Java.
-- 🗄️ Aprendiendo bases de datos y SQL.
-- 🌐 Creando proyectos web con HTML y CSS.
-- 🚀 Motivado por la tecnología, la innovación y los nuevos desafíos.
-
----
+- 🗄️ Practicando SQL, bases de datos y operaciones CRUD.
+- 🌐 Desarrollando proyectos con HTML, CSS y JavaScript.
+- 🩺 Interesado en HealthTech y soluciones digitales para la salud.
+- 🚀 Construyendo mi portfolio profesional paso a paso.
 
 ## 🛠️ Tecnologías y herramientas
 
-| Área | Tecnologías |
-|---|---|
-| Programación | Python, Java |
-| Desarrollo web | HTML5, CSS3 |
-| Bases de datos | SQL, MySQL, MariaDB |
-| Herramientas | Git, GitHub, Linux |
-| Aprendizaje actual | Desarrollo de aplicaciones multiplataforma |
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-168F79?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-174E43?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-168F79?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-174E43?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B7E4D5?style=flat-square&logo=javascript&logoColor=174E43)
+![SQL](https://img.shields.io/badge/SQL-168F79?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-174E43?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-168F79?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-174E43?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-168F79?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 📂 Mis proyectos
+</div>
 
-Este perfil reúne mis proyectos académicos y personales, desarrollados para poner en práctica mis conocimientos y mejorar mis habilidades como programador.
+*Tecnologías en aprendizaje y práctica; sigo ampliando mis conocimientos con cada proyecto.*
 
-Cada proyecto representa una oportunidad para aprender, experimentar y encontrar nuevas formas de resolver problemas.
+## 🚀 Proyectos destacados
 
-🔹 **Proyectos de programación:** ejercicios de lógica y estructuras de control.
+### 🩺 NEXO — Centro Oncológico
 
-🔹 **Bases de datos:** creación de tablas, consultas SQL y operaciones CRUD.
+Proyecto académico de desarrollo web centrado en una interfaz clara y organizada para la gestión asistencial.
 
-🔹 **Desarrollo web:** páginas web con HTML y CSS.
+**Objetivo:** practicar diseño de interfaces y organización de información mediante secciones como pacientes, consultas e informes.
 
-🔹 **Aplicaciones:** proyectos personales y académicos en evolución.
+**Tecnologías:** HTML, CSS y las herramientas de desarrollo utilizadas en el proyecto.
 
----
+### 🌐 Desarrollo web
 
-## 🎯 Objetivo profesional
+Páginas y prototipos creados durante mi formación en DAM.
 
-Mi objetivo es crecer profesionalmente en el sector tecnológico, adquirir experiencia práctica y participar en proyectos donde pueda aportar dedicación, creatividad y ganas de aprender.
+- Estructura semántica con HTML.
+- Diseño visual con CSS.
+- Práctica de JavaScript.
+- Interfaces claras y adaptables.
 
-Estoy abierto a nuevas oportunidades, colaboraciones y desafíos relacionados con el desarrollo de software.
+### 🗄️ Programación y bases de datos
 
----
+Ejercicios para consolidar los fundamentos del desarrollo de software.
 
-<p align="center">
-  <strong>REALTECH</strong>
-  <br>
-  Technology · Development · Innovation
-  <br><br>
-  <i>Transformando ideas en soluciones digitales.</i>
-</p>
+- Variables y estructuras de control.
+- Lógica de programación.
+- SQL y operaciones CRUD.
+- Creación y gestión de bases de datos.
+
+## 📚 Actualmente estoy aprendiendo
+
+- Fundamentos de programación.
+- Python y Java.
+- Desarrollo web.
+- Bases de datos relacionales.
+- Git y GitHub.
+- Desarrollo de aplicaciones multiplataforma.
+
+## 🎯 Mi objetivo
+
+Desarrollar una base técnica sólida, crear proyectos cada vez más completos y prepararme para oportunidades profesionales en el sector tecnológico.
+
+> 💡 Cada proyecto es una oportunidad para aprender algo nuevo.
+
+## 📫 Contacto
+
+- GitHub: [@DisignDiones](https://github.com/DisignDiones)
+
+<div align="center">
+
+**DESARROLLANDO EL FUTURO, PASO A PASO.** 💚
+
+<sub>Hecho con dedicación, curiosidad y ganas de aprender.</sub>
+
+</div>
