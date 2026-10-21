@@ -5,7 +5,6 @@
 
 <div align="center">
 
-# Diones Gomes
 
 ### Desarrollo de Aplicaciones Multiplataforma · HealthTech
 
