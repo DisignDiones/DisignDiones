@@ -55,7 +55,7 @@ Me interesa crear aplicaciones útiles, intuitivas y accesibles, especialmente a
 
 ## 🚀 Proyectos destacados
 
-### 🩺 NEXO — Centro Oncológico
+### 🩺 NEXO: Salud Emocional
 
 Proyecto académico de desarrollo web centrado en una interfaz clara y organizada para la gestión asistencial.
 
