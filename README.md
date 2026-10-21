@@ -54,11 +54,13 @@ Me interesa crear aplicaciones útiles, intuitivas y accesibles, especialmente a
 
 ## 🚀 Proyectos destacados
 
-### 🩺 NEXO: Salud Emocional
+### 🧠 [NEXO Salud Mental — Abrir aplicación](https://disigndiones.github.io/REALTech-Projects/)
 
-Proyecto académico de desarrollo web centrado en una interfaz clara y organizada para la gestión asistencial.
+Plataforma digital de seguimiento emocional diseñada para conectar a pacientes y profesionales de la salud mental.
 
-**Objetivo:** practicar diseño de interfaces y organización de información mediante secciones como pacientes, consultas e informes.
+**Objetivo:** facilitar el registro del estado de ánimo y consultar el historial emocional para apoyar el seguimiento durante las consultas.
+
+**Funcionalidades:** registro emocional, seguimiento del bienestar e historial de actividad.
 
 **Tecnologías:** HTML, CSS y las herramientas de desarrollo utilizadas en el proyecto.
 
